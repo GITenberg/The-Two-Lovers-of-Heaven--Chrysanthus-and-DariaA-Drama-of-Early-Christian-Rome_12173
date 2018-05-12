@@ -1,5 +1,5 @@
 _repo: The-Two-Lovers-of-Heaven--Chrysanthus-and-DariaA-Drama-of-Early-Christian-Rome_12173
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Dos amantes del cielo. English
 contributor:
   translator:
@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '4460'
     url: http://www.gutenberg.org/2009/agents/4460
     wikipedia: http://en.wikipedia.org/wiki/Denis_Florence_MacCarthy
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Calderón de la Barca, Pedro
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/970
     wikipedia: http://en.wikipedia.org/wiki/Pedro_Calderón_de_la_Barca
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12173#The-Two-Lovers-of-Heaven--Chrysanthus-and-DariaA-Drama-of-Early-Christian-Rome
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
